@@ -27,11 +27,11 @@ Basically Resoorces.com shows Search Result for these UI Components and other Us
 
 ## Tech Stack
 
-**Client:** Bootstrap, TailwindCSS
+**Client:**   Bootstrap, TailwindCSS
 
-**Server:** Django
+**Server:**   Django
 
-**Database:** MySQL
+**Database:**   MySQL
 
 
 ## Related
