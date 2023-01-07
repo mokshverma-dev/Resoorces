@@ -2,7 +2,7 @@
 # Hi, I'm Moksh Verma! 👋
 
 
-![Resoorces.com](https://github.com/mokshverma-dev/Resoorces/blob/main/264810948_3448351415399185_135925582257967666_n.jpg)
+![Resoorces.com](https://github.com/mokshverma-dev/Resoorces/blob/main/resoorces_logo.png)
 
 
 # Resoorces.com
