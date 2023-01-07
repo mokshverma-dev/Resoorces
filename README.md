@@ -41,22 +41,6 @@ Here are some related projects
 [Awesome README](https://github.com/matiassingers/awesome-readme)
 
 
-## FAQ
-
-#### Question 1
-
-Answer 1
-
-#### Question 2
-
-Answer 2
-
-
-## Support
-
-For support, email fake@fake.com or join our Slack channel.
-
-
 ## Authors
 
 - [@mokshverma_](https://www.instagram.com/mokshverma_/)
