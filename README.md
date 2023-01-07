@@ -17,7 +17,7 @@ Basically Resoorces.com shows Search Result for these UI Components and other Us
 ## Screenshots
 
 ![Home Page](https://github.com/mokshverma-dev/Resoorces/blob/main/Screenshot%202023-01-07%20214853.png)
-![Home Page after Login](https://drive.google.com/file/d/1oO-eHXQFk0KrcEB8t0YgOr1s1kJYViua/view?usp=share_link)
+![Home Page after Login](https://github.com/mokshverma-dev/Resoorces/blob/main/Screenshot%202023-01-07%20214853.png)
 ![Explore Page](https://github.com/mokshverma-dev/Resoorces/blob/main/Screenshot%202023-01-07%20215050.png)
 ![Explore Page Down Side](https://github.com/mokshverma-dev/Resoorces/blob/main/Screenshot%202023-01-07%20215123.png)
 
